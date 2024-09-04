@@ -1,0 +1,2 @@
+Dan Rolander <Dan.Rolander@marriott.com> :
+  * Improved XSL stylesheet to display summary information.

@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+/.vs/msi2xml/FileContentIndex
+/.vs
+/getversion/Debug_Unicode
+/getversion/Release_Unicode
+/msi2xml/Debug_Unicode
+/msi2xml/Release_Unicode
+/xml2msi/Debug_Unicode
+/xml2msi/Release_Unicode
+*.msi
